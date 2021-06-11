@@ -1,0 +1,75 @@
+/* Estilo do cabeçario */
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Comic Sans MS, Arial, sans-serif;
+    background-color:white;
+   
+}
+.title{
+    color: white;
+    font-size: 35px;
+    text-shadow: 2px 2px 2px red;
+    
+}
+header{
+    background-color: rgba(236, 8, 198, 0.986);
+    text-align: center;
+    padding: 5px;
+}
+#image{
+    width: 40px;
+    margin: -10px;
+}
+.container, .sectioncontainer, footer {
+    max-width: 400px;
+    margin: auto;
+}   
+.sectioncontainer{
+    text-align: center;
+    color: white;
+    background-color: rgb(123, 204, 154);
+    padding-top: 10px;
+}
+.mb{
+    margin-bottom: 5px;
+}
+#imagem{
+    width: 20px;
+    
+}
+footer{
+    text-align: center;
+    padding: 20px;
+    background-color:  rgb(123, 204, 154);
+}
+.footer{
+    background-color: blue;
+    border-radius: 10px;
+    max-width: 250px;
+    margin: auto;
+    padding: 5px;
+    margin-top: 10px;
+}
+a{
+    color: white;
+}  
+.img{
+    width: 150px;
+}
+a{
+   text-decoration: none;
+}
+.body{
+    color: white;
+    background-color: rosybrown;
+    position: absolute;
+    top: 50%;
+    text-align: center;
+}
+p{
+    font-weight: bold;
+}
+
